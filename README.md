@@ -1,3 +1,12 @@
+#This is a repository to test the deployment of a react app into github. 
+Here is the step by step guideline:
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
